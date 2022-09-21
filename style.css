@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    text-decoration: underline wavy;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    
+}
+.chapitre{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+    
+
+p{
+    text-align: justify;
+    text-indent: 25px;
+    line-height: 22px;
+
+    
+}
+
+.dolor{
+    color: red;
+}
+
+
+footer{
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: px;
+    word-spacing: 10px;
+    
+}
+
+    
